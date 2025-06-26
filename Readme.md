@@ -1,111 +1,76 @@
-👨‍💼 About Me
+# 👋 Hi, I’m Douglas Letz  
+**Senior .NET Engineer | Senior DevOps Engineer | Cloud Infrastructure Architect**  
+“Automating everything from commit to cloud.”  
+📍 Based in Denison, TX, USA  
+🌐 [LinkedIn](https://www.linkedin.com/in/douglas-letz-34b340371/) • [GitHub](https://github.com/letzgetstarted)
 
-name: Douglas Letz
-role: Senior .NET & DevOps Engineer
-experience: 12+ years
-focus:
-  - Cloud-native architecture
-  - Full-stack automation & security
-  - Multi-cloud strategy (Azure / AWS / GCP)
-tech_stack:
-  - .NET, C#, Python, Go, TypeScript, JavaScript
-  - Docker, Kubernetes, Terraform, Pulumi
-  - CI/CD: Jenkins, ArgoCD, GitHub Actions, GitLab CI
-  - Observability: Prometheus, Grafana, ELK, OpenTelemetry
+---
 
-🛠 Core Competencies
+## 🧭 About Me
 
-Domain
+With over a decade of experience across software engineering and DevOps, I specialize in building secure, scalable, and automated systems that span cloud platforms, codebases, and containers.  
 
-Tools & Technologies
+From modernizing legacy .NET applications to engineering high-availability Kubernetes infrastructure, I help teams deliver robust, production-ready systems—faster and with greater confidence.
 
-Backend
+If it runs on .NET, lives in the cloud, deploys through GitHub Actions, and scales with Terraform and Kubernetes—I’ve probably built it, secured it, and automated it end-to-end.
 
-.NET Core, ASP.NET, FastAPI, Flask, Node.js, Go
+---
 
-Frontend
+## ⚙️ What I Do
 
-React, Angular, Vue.js, TypeScript, Storybook
+✅ Architect and scale .NET Core and Go-based microservices  
+✅ Build secure CI/CD pipelines with GitHub Actions, Jenkins, and ArgoCD  
+✅ Automate infrastructure using Terraform, Pulumi, and Bicep  
+✅ Design multi-cloud deployments on Azure, AWS, and GCP  
+✅ Implement end-to-end observability with Prometheus, Grafana, and ELK  
+✅ Harden systems using DevSecOps tooling and IAM best practices  
+✅ Deliver full-stack solutions using React, Angular, and TypeScript  
+✅ Mentor engineering teams on clean code, security, and cloud architecture
 
-Infrastructure
+---
 
-Docker, Kubernetes (EKS/AKS/GKE), Helm
+## 🏆 Core Tech Stack
 
-IaC & Automation
+**Languages**  
+C#, Go, Python, TypeScript, JavaScript, Bash, PowerShell
 
-Terraform, Pulumi, Bicep, ARM, CloudFormation
+**Frameworks**  
+.NET Core, ASP.NET, Entity Framework Core, React, Angular, FastAPI, Flask
 
-CI/CD & DevSecOps
+**DevOps & IaC**  
+Docker, Kubernetes, Terraform, Pulumi, GitHub Actions, Jenkins, ArgoCD, Helm
 
-Jenkins, GitHub Actions, ArgoCD, Snyk, SonarQube, Aqua, Trivy
+**Cloud**  
+Azure (primary), AWS, GCP
 
-Cloud Platforms
+**Monitoring & Security**  
+Prometheus, Grafana, ELK Stack, OpenTelemetry, HashiCorp Vault, Snyk, Trivy
 
-Azure, AWS, GCP
+**APIs**  
+REST, gRPC, GraphQL
 
-Security & Monitoring
+**Databases**  
+SQL Server, PostgreSQL, MongoDB, Redis
 
-Vault, IAM, Sentinel, CloudWatch, Azure Monitor, Stackdriver
+---
 
-Database & ETL
+## 🚀 Current Focus
 
-SQL Server, PostgreSQL (PostGIS), MongoDB, SSIS, Kafka, Azure Data Lake
+🔹 Migrating legacy .NET systems to modern microservices  
+🔹 Automating secure cloud infrastructure in Azure and AWS  
+🔹 Improving GitOps workflows with ArgoCD and FluxCD  
+🔹 Enhancing observability in distributed environments  
+🔹 Contributing to open-source DevOps and infrastructure tools
 
-🌟 Key Achievements
+---
 
-Modernized legacy .NET systems, migrating apps to .NET 7 with EF Core & SignalR, improving performance by 40%.
+## 🤝 Connect & Collaborate
 
-Designed microservices-based drone detection platform, delivering 35% faster telemetry processing using Kubernetes, GO, Flask.
+I’m always open to:
 
-Built multi-tenant geospatial analytics dashboard with PostGIS, Leaflet, GeoServer and Angular for 2k+ daily users.
+🤝 Collaborating on DevOps and cloud automation projects  
+🧠 Consulting on .NET modernization and CI/CD pipelines  
+📢 Speaking on DevSecOps, IaC, and Kubernetes  
+💬 Learning from fellow engineers building resilient systems
 
-Automated multi-cloud infra provisioning using Terraform/Pulumi, reducing setup time by 80%.
-
-Achieved 99.99% uptime with sophisticated monitoring & CI/CD pipelines across Azure, AWS, GCP.
-
-🔧 Featured Projects
-
-• AirWarden™ Drone Detection Platform
-
-Full-stack microservices leveraging ASP.NET Core, Flask, Go, Node.js, Kubernetes—optimized latency & reliability.
-
-• .NET Core Legacy Migration
-
-Re-engineered monolithic .NET apps to microservices with EF Core and SignalR, boosting throughput by 40%.
-
-• Geospatial Logistics Dashboard
-
-Built a real-time mapping solution using PostGIS, Leaflet, GeoServer, and Angular—empowering logistics operations.
-
-📊 GitHub Overview
-
-
-
-⚡ Active Engagement
-
-Regular CI/CD improvements and automation across multiple cloud platforms
-
-Implemented GitHub Actions for dynamic README badges and analytics
-
-Pioneering AIOps integrations for smarter infrastructure troubleshooting
-
-📢 Let’s Connect
-
-Channel
-
-Link
-
-Email
-
-douglasletz83@gmail.com
-
-LinkedIn
-
-linkedin.com/in/douglas‑letz‑34b340371
-
-GitHub
-
-github.com/letzgetstarted
-
-“If it has an ‘Ops’ in it—be it CloudOps, DataOps, InfraOps—I’ve mastered it.”
-
+👉 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/douglas-letz-34b340371/) or star a project on [GitHub](https://github.com/letzgetstarted). Always happy to share ideas and swap war stories from the trenches.
