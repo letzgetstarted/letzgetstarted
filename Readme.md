@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Douglas Letz  
 **Senior .NET Engineer | Senior DevOps Engineer | Cloud Infrastructure Architect**  
-“Automating everything from commit to cloud.”  
+“Turning operational chaos into a symphony of automation and efficiency.”  
 📍 Based in Denison, TX, USA  
 🌐 [LinkedIn](https://www.linkedin.com/in/douglas-letz-34b340371/) • [GitHub](https://github.com/letzgetstarted)
 
@@ -8,59 +8,56 @@
 
 ## 🧭 About Me
 
-With over a decade of experience across software engineering and DevOps, I specialize in building secure, scalable, and automated systems that span cloud platforms, codebases, and containers.  
+My toolkit includes .NET, Python, Go, and JavaScript/TypeScript with React, Angular, Vue.js, and Node.js, making me a versatile force across both infrastructure and software development.  
 
-From modernizing legacy .NET applications to engineering high-availability Kubernetes infrastructure, I help teams deliver robust, production-ready systems—faster and with greater confidence.
+I’m a DevOps maestro with a flair for turning operational chaos into a symphony of automation and efficiency. Whether it’s DevOps, AIOps, CloudOps, DevSecOps, AppOps, ChatOps, MLOps, NoOps, AnalyticsOps, DataOps, GitOps, InfraOps, or even ModelOps—if it has an ‘Ops’ in it, I’ve probably mastered it.  
 
-If it runs on .NET, lives in the cloud, deploys through GitHub Actions, and scales with Terraform and Kubernetes—I’ve probably built it, secured it, and automated it end-to-end.
+I build rock-solid CI/CD pipelines, architect scalable cloud solutions in Azure, AWS, and GCP, and orchestrate seamless deployments with Docker and Kubernetes. From APIs to ETL, database optimization to observability, I bring production-grade discipline and speed to every project.
 
 ---
 
 ## ⚙️ What I Do
 
-✅ Architect and scale .NET Core and Go-based microservices  
-✅ Build secure CI/CD pipelines with GitHub Actions, Jenkins, and ArgoCD  
-✅ Automate infrastructure using Terraform, Pulumi, and Bicep  
-✅ Design multi-cloud deployments on Azure, AWS, and GCP  
-✅ Implement end-to-end observability with Prometheus, Grafana, and ELK  
-✅ Harden systems using DevSecOps tooling and IAM best practices  
-✅ Deliver full-stack solutions using React, Angular, and TypeScript  
-✅ Mentor engineering teams on clean code, security, and cloud architecture
+✅ Modernize .NET applications with clean architecture and cloud-native patterns  
+✅ Automate secure, scalable infrastructure across Azure, AWS, and GCP  
+✅ Build high-throughput CI/CD pipelines with GitHub Actions, Jenkins, and ArgoCD  
+✅ Design and deploy containerized microservices using Docker and Kubernetes  
+✅ Implement full-stack solutions using React, Angular, FastAPI, and Node.js  
+✅ Harden cloud infrastructure with DevSecOps best practices and IAM policies  
+✅ Engineer observability pipelines with Prometheus, Grafana, and ELK  
+✅ Mentor teams on software craftsmanship, infrastructure-as-code, and security
 
 ---
 
 ## 🏆 Core Tech Stack
 
 **Languages**  
-C#, Go, Python, TypeScript, JavaScript, Bash, PowerShell
+C#, Go, Python, JavaScript/TypeScript, Bash, PowerShell
 
-**Frameworks**  
-.NET Core, ASP.NET, Entity Framework Core, React, Angular, FastAPI, Flask
+**Frameworks & Tools**  
+.NET Core, ASP.NET, FastAPI, Flask, React, Angular, Node.js, Django, NestJS
 
-**DevOps & IaC**  
-Docker, Kubernetes, Terraform, Pulumi, GitHub Actions, Jenkins, ArgoCD, Helm
-
-**Cloud**  
-Azure (primary), AWS, GCP
+**Cloud & DevOps**  
+Azure, AWS, GCP • Docker, Kubernetes, Terraform, Pulumi, GitHub Actions, Jenkins, ArgoCD, Helm
 
 **Monitoring & Security**  
-Prometheus, Grafana, ELK Stack, OpenTelemetry, HashiCorp Vault, Snyk, Trivy
-
-**APIs**  
-REST, gRPC, GraphQL
+Prometheus, Grafana, ELK, OpenTelemetry, Trivy, Snyk, HashiCorp Vault
 
 **Databases**  
-SQL Server, PostgreSQL, MongoDB, Redis
+SQL Server, PostgreSQL/PostGIS, MongoDB, Redis, Azure SQL, DynamoDB
+
+**CI/CD & InfraOps**  
+Terraform, CloudFormation, Azure ARM, GitOps (FluxCD, ArgoCD), IaC, DevSecOps
 
 ---
 
 ## 🚀 Current Focus
 
-🔹 Migrating legacy .NET systems to modern microservices  
-🔹 Automating secure cloud infrastructure in Azure and AWS  
-🔹 Improving GitOps workflows with ArgoCD and FluxCD  
-🔹 Enhancing observability in distributed environments  
-🔹 Contributing to open-source DevOps and infrastructure tools
+🔹 Migrating legacy .NET platforms to modern microservices on Kubernetes  
+🔹 Scaling multi-cloud infrastructure with Pulumi and Terraform  
+🔹 Enhancing observability and SRE practices across distributed systems  
+🔹 Automating security, compliance, and testing in CI/CD pipelines  
+🔹 Building cloud-native geospatial analytics and high-volume ETL pipelines
 
 ---
 
@@ -68,9 +65,9 @@ SQL Server, PostgreSQL, MongoDB, Redis
 
 I’m always open to:
 
-🤝 Collaborating on DevOps and cloud automation projects  
-🧠 Consulting on .NET modernization and CI/CD pipelines  
-📢 Speaking on DevSecOps, IaC, and Kubernetes  
-💬 Learning from fellow engineers building resilient systems
+🤝 Collaborating on enterprise DevOps and infrastructure automation  
+🧠 Consulting on .NET modernization and multi-cloud strategy  
+📢 Speaking or writing on CI/CD, Kubernetes, and cloud-native engineering  
+💬 Learning from other builders in infrastructure and DevOps
 
-👉 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/douglas-letz-34b340371/) or star a project on [GitHub](https://github.com/letzgetstarted). Always happy to share ideas and swap war stories from the trenches.
+👉 Reach out on [LinkedIn](https://www.linkedin.com/in/douglas-letz-34b340371/) or explore my projects on [GitHub](https://github.com/letzgetstarted). Always happy to connect.
